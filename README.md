@@ -1,6 +1,6 @@
 # 🚀 Unofficial: SSAFY 학생들의 진정한 커뮤니티 🚀
 
-<img src="./assets/images/main_logo.png" width="600">
+[![언오피셜](/assets/images/main_logo.png)](https://unofficial.kr)
 
 <br/>
 
