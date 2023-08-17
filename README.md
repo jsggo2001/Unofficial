@@ -18,8 +18,8 @@
 
 당신만의 아이덴티티로 Unofficial에 참여하세요. 안전하게 정보를 보호하며, 쉽고 빠르게 가입하고 로그인할 수 있습니다.
 
-<img src="./assets/gif/un_regist.gif" width="300">
-<img src="./assets/gif/un_login.gif" width="300">
+<img src="./assets/gif/un_regist.gif" width="600">
+<img src="./assets/gif/un_login.gif" width="600">
 
 ### 📹 랜덤 채팅
 
@@ -49,8 +49,8 @@
 
 여러분의 이야기, 정보, 질문을 자유롭게 나누세요. 함께 성장하는 커뮤니티가 될 것입니다.
 
-<img src="./assets/gif/un_article.gif" width="300">
-<img src="./assets/gif/un_comment.gif" width="300">
+<img src="./assets/gif/un_article.gif" width="600">
+<img src="./assets/gif/un_comment.gif" width="600">
 
 <br />
 
