@@ -16,7 +16,7 @@ export default function WeatherWidget({ userLocal }) {
   };
   const userLocalEng = korToEng[userLocal];
   let cities = ["Seoul", "Daejeon", "Gumi", "Gwangju", "Busan"];
-  const api_key = "be3211008c87f453651f5f04faa61375";
+  const api_key = "openWeatherAPI 키";
   const [weatherData, setWeatherData] = useState([]);
 
   useEffect(() => {
