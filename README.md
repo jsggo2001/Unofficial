@@ -44,6 +44,7 @@
 자신만의 소식, 홍보하고 싶은 것들을 공유하세요! 여러분의 소식을 기다립니다.
 
 <img src="./assets/gif/un_ads.gif" width="600">
+<img src="./assets/images/광고.png" width="600">
 
 ### 📝 익명 게시판 & 댓글
 
@@ -136,13 +137,26 @@
 
 <img src="./assets/images/ERD.png" width="600">
 
-### EC2 포트 정리
+## 개발 및 배포 과정
 
-| 포트 | 내용 |
-| ---- | -------------------- |
-| 80   | nginx HTTP 기본 포트  |
-| 443  | nginx HTTPS          |
+### 개발 과정
+개발과 운영 서버 분리 (테스트 용이)  
 
-### 팀원 역할
+<img src="./assets/images/개발과정.png" width="600">
+
+
+### 배포 이력
+
+베타 버전 포함 총 5회 배포  
+
+<img src="./assets/images/배포이력.png" width="600">
+
+### 서비스 현황
+<img src="./assets/images/서비스 현황1.png" width="600">
+<img src="./assets/images/서비스 현황2.png" width="600">
+
+<br />
+
+## 팀원 소개
 
 <img src="./assets/images/teammates.PNG" width="600">
