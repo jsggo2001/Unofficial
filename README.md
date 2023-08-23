@@ -137,6 +137,8 @@
 
 <img src="./assets/images/ERD.png" width="600">
 
+<br/>
+
 ## 개발 및 배포 과정
 
 ### 개발 과정
